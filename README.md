@@ -1,4 +1,4 @@
-# `Open in vscode` option for Nemo
+# `Open in VSCodium` option for Nemo
 
 ![Preview picture of context menu](test.png)
 
