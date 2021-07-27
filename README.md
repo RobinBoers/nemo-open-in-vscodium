@@ -10,7 +10,7 @@ So, for adding the `Open in VSCodium` option, you just need to place the file `v
 
 
 ```shell
-sudo wget https://raw.githubusercontent.com/RobinBoers/nemo-open-in-vscode/master/vscodium.nemo_action -O ~/.local/share/nemo/actions/vscodium.nemo_action
+sudo wget https://raw.githubusercontent.com/RobinBoers/nemo-open-in-vscodium/master/vscodium.nemo_action -O ~/.local/share/nemo/actions/vscodium.nemo_action
 ```
 
 Or, clone this repository and run:
