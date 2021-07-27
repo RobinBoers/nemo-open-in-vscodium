@@ -16,5 +16,5 @@ sudo wget https://raw.githubusercontent.com/RobinBoers/nemo-open-in-vscodium/mas
 Or, clone this repository and run:
 
 ```shell
-sudo cp nemo-open-in-vscode/vscodium.nemo_action ~/.local/share/nemo/actions
+sudo cp nemo-open-in-vscodium/vscodium.nemo_action ~/.local/share/nemo/actions
 ```
