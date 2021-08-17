@@ -1,0 +1,12 @@
+[Nemo Action]
+
+Active=true
+Name=Open in VSCode
+Comment=Opens current folder in VSCode
+Exec=code %P
+Icon-Name=visual-studio-code
+Selection=none
+Extensions=any;
+Quote=double
+Dependencies=code;
+
