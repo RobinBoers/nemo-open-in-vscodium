@@ -1,6 +1,6 @@
 # `Open in VSCodium` option for Nemo
 
-![Preview picture of context menu](test.png)
+![Preview picture of context menu](screenshot.png)
 
 Nemo, the Cinnamon file manager, supports adding actions and scripts easily by adding a config file in `~/.local/share/nemo`.
 
